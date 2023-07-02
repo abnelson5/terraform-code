@@ -51,7 +51,7 @@ variable "protocol_type" {
   default = "email"
 }
 variable "end_point" {
-  default = "abcfgfgfg@yahoo.com"
+  default = "abcfgfgfg@yahoo.com"             # put your own email here
 }
 
 # terraform.tfvars
